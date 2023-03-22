@@ -52,7 +52,7 @@ client.on('message', async message => {
       message.channel.stopTyping()
       
       // Bot will send the user's answers to the mod logs channel
-      const modLogsChannel = client.channels.cache.get(modLogsChannelId);
+      const modLogsChannel = client.channels.cache.get(config.modLogsChannelId);
       const answers = new Discord.MessageEmbed()
       .setTitle("Verification")
       .setColor('#313138')
@@ -69,11 +69,12 @@ client.on('message', async message => {
       const role = message.guild.roles.cache.find(role => role.id === 'THE ROLE ID OF VERIFY');
       await wait(5000)
       await message.channel.send('Thank you for your answers. You will be verified shortly.');
+      await message.member.roles.add(role) // The bot will give the user the role
       await message.author.send('Welcome to the server, Add mo friends mo dito have fun enjoying the server!')
       await wait(5000)
       message.channel.bulkDelete(15) // The bot will delete the message
-      
-      message.member.roles.add(role)
     }
   }
 })
+
+client.login(config.token) // Start the bot, Online
