@@ -17,6 +17,16 @@
 ```
 ## Starting
 >
-> *After putting some credentials in `config.json` go to **terminal** [if you're using replit]*
-> *and do `npm i` [installs the npms that are there in `package.json`]*
-> *If manual, do `npm i disord.js/@.12.5.3`*
+> After putting some credentials in `config.json` go to **terminal** [if you're using replit and visual code studio]
+> and do `npm i` [installs all packages that are existed in `package.json`]
+> If manual, do `npm i disord.js/@.12.5.3`
+
+# LICENSE
+> This repo in under `MIT` License, If curious what is it. Click the `LISENCE.
+
+# Help
+> If you need help about the code or etc, Hop in [Join here](https://discord.gg/saike)
+
+<footer align=center>
+  If you like this repo, Please ⭐ this repo. Ty!
+</footer>
