@@ -17,6 +17,6 @@
 ```
 ## Starting
 >
-> After putting some credentials in `config.json` go to **terminal** [if you're using replit]\n
-> and do `npm i` [installs the npms that are there in `package.json`]\n
-> If manual, do `npm i disord.js/@.12.5.3`
+> *After putting some credentials in `config.json` go to **terminal** [if you're using replit]*
+> *and do `npm i` [installs the npms that are there in `package.json`]*
+> *If manual, do `npm i disord.js/@.12.5.3`*
