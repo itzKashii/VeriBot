@@ -1,0 +1,5 @@
+{
+  token: "YOUR BOT'S TOKEN",
+  prefix: "YOUR BOT'S PREFIX,
+  modLogChannel: "CHANNEL ID OF THE LOGS FOR THE ANSWERS"
+}
