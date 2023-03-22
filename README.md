@@ -15,3 +15,8 @@
   modLogChannel: "CHANNEL ID OF THE LOGS FOR THE ANSWERS"
 }
 ```
+# Starting
+>
+> After putting some credentials in `config.json` go to **terminal** [if you're using replit]
+> and do `npm i` [installs the npms that are there in `package.json`]
+> If manual, do `npm i disord.js/@.12.5.3`
