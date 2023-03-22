@@ -21,10 +21,12 @@
 > and do `npm i` [installs all packages that are existed in `package.json`]
 > If manual, do `npm i disord.js/@.12.5.3`
 
-# LICENSE
+
+### LICENSE
 > This repo in under `MIT` License, If curious what is it. Click the `LISENCE.
 
-# Help
+
+### Help
 > If you need help about the code or etc, Hop in [Join here](https://discord.gg/saike)
 
 <footer align=center>
