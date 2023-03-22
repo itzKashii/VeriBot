@@ -23,7 +23,7 @@
 
 
 # LICENSE
-> This repo in under `MIT` License, If curious what is it. Click the `LISENCE.
+> This repo is under `MIT` License, If curious what is it. Click the `LISENCE.
 
 
 # Help
