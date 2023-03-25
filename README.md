@@ -10,9 +10,9 @@
 > Go to `config.json` file and put some credentials there
 ```js
 {
-  token: "YOUR BOT'S TOKEN",
-  prefix: "YOUR BOT'S PREFIX,
-  modLogChannel: "CHANNEL ID OF THE LOGS FOR THE ANSWERS"
+  "token": "YOUR BOT'S TOKEN",
+  "prefix": "YOUR BOT'S PREFIX,
+  "modLogChannel": "CHANNEL ID OF THE LOGS FOR THE ANSWERS"
 }
 ```
 ## Starting
