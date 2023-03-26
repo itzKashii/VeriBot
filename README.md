@@ -19,7 +19,7 @@
 >
 > After putting some credentials in `config.json` go to **terminal** [if you're using replit and visual code studio]
 > and do `npm i` [installs all packages that are existed in `package.json`]
-> If manual, do `npm i disord.js/@.12.5.3`
+> If manual, do `npm i disord.js/@12.5.3`
 
 
 # LICENSE
